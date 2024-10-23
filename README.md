@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ulises Molina</h1>
 
 ## 🚀 About Me
+
 I'm a passionate frontend developer from Argentina
+
 I´m completely self-taught
 
 
