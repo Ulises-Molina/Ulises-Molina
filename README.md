@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate frontend developer from Argentina
+I'm a passionate frontend developer from Argentina, Buenos Aires
 
 I´m completely self-taught
 
@@ -28,4 +28,22 @@ I´m completely self-taught
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
+
+
+
+<h1 align="center">Hola 👋, soy Ulises Molina</h1>
+
+## 🚀 Sobre mi
+
+Soy un apasionado desarrollador web frontend de Buenos Aires, Argentina
+
+Soy completamente auto didacta
+
+
+
+
+
+- 👨‍💻 Todos mis proyectos estan disponibles en :  [URL PORTFOLIO](URL PORTFOLIO)
+
+- 📫 Contactame : **uli.molina10@gmail.com**
 
