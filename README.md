@@ -4,7 +4,7 @@
 
 I'm a passionate frontend developer from Argentina, Buenos Aires.
 
-I like to be in constant growth with the ability to learn new technologies and adapt easily to new work teams achieving scalable web projects.
+I like to be in constant growth with the ability to learn new technologies and adapt easily to new work teams.
 
 I am passionate about challenges and even more so if they enrich my knowledge.
 
@@ -41,7 +41,7 @@ I´m completely self-taught.
 
 Soy un apasionado desarrollador web frontend de Buenos Aires, Argentina.
 
-Me gusta estar en constante crecimiento con la capacidad de aprender nuevas tecnologías y adaptarme con facilidad a nuevos equipos de trabajo logrando proyectos web escalables.
+Me gusta estar en constante crecimiento con la capacidad de aprender nuevas tecnologías y adaptarme con facilidad a nuevos equipos de trabajo.
 
 Me apasionan los desafíos y mas si enriquecen mis conocimientos.
 
