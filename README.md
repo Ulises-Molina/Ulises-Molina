@@ -2,9 +2,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate frontend developer from Argentina, Buenos Aires
+I'm a passionate frontend developer from Argentina, Buenos Aires.
 
-I´m completely self-taught
+I like to be in constant growth with the ability to learn new technologies and adapt easily to new work teams achieving scalable web projects.
+
+I am passionate about challenges and even more so if they enrich my knowledge.
+
+I´m completely self-taught.
 
 
 
@@ -35,9 +39,13 @@ I´m completely self-taught
 
 ## 🚀 Sobre mi
 
-Soy un apasionado desarrollador web frontend de Buenos Aires, Argentina
+Soy un apasionado desarrollador web frontend de Buenos Aires, Argentina.
 
-Soy completamente auto didacta
+Me gusta estar en constante crecimiento con la capacidad de aprender nuevas tecnologías y adaptarme con facilidad a nuevos equipos de trabajo logrando proyectos web escalables.
+
+Me apasionan los desafíos y mas si enriquecen mis conocimientos.
+
+Soy completamente auto didacta.
 
 
 
