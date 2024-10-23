@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 I'm a passionate frontend developer from Argentina
+I´m completely self-taught
 
 
 
