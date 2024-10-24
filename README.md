@@ -14,7 +14,7 @@ I´m completely self-taught.
 
 
 
-- 👨‍💻 All of my projects are available at:  [URL PORTFOLIO](URL PORTFOLIO)
+- 👨‍💻 All of my projects are available at my portfolio:  [URL PORTFOLIO](URL PORTFOLIO)
 
 - 📫 Contact me: **uli.molina10@gmail.com**
 
