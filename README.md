@@ -68,9 +68,8 @@ I´m completely self-taught.
 
 <span>
 
-
-
-
+<br></br>
+<br></br>
 
 </span>
 
