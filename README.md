@@ -66,7 +66,12 @@ I´m completely self-taught.
 </span>
 
 
-<span> 
+<span>
+
+
+
+
+
 </span>
 
 
