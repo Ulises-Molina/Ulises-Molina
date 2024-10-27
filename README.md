@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate frontend and backend developer from Argentina, Buenos Aires. Inclined towards the frontend
+I'm a passionate frontend developer from Argentina, Buenos Aires.
 
 I like to be in constant growth with the ability to learn new technologies and adapt easily to new work teams.
 
@@ -39,9 +39,7 @@ I´m completely self-taught.
 <span>
 <img src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src= "https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-<img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img src= "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src= "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <img src= "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 
@@ -56,9 +54,6 @@ I´m completely self-taught.
 <img src= "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src= "https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 <img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src= "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 
 
@@ -79,7 +74,7 @@ I´m completely self-taught.
 
 ## 🚀 Sobre mi
 
-Soy un apasionado desarrollador web frontend y backend de Buenos Aires, Argentina. Inlcinado mayormente hacia el frontend
+Soy un apasionado desarrollador web frontend de Buenos Aires, Argentina.
 
 Me gusta estar en constante crecimiento con la capacidad de aprender nuevas tecnologías y adaptarme con facilidad a nuevos equipos de trabajo.
 
