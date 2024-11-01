@@ -16,7 +16,7 @@ I´m completely self-taught.
 
 - 👨‍💻 All of my projects are available at my portfolio:  [URL IN MAINTENANCE]
 
-- 📫 Contact me: **uli.molina10@gmail.com**
+- 📫 Contact me: **ulisesmolinadev@gmail.com**
 
 
 
@@ -87,5 +87,5 @@ Soy completamente auto didacta.
 
 - 👨‍💻 Todos mis proyectos estan disponibles en :  [URL PORTFOLIO](URL PORTFOLIO)
 
-- 📫 Contactame : **uli.molina10@gmail.com**
+- 📫 Contactame : **ulisesmolinadev@gmail.com**
 
