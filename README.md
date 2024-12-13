@@ -14,7 +14,7 @@ I´m completely self-taught.
 
 
 
-- 👨‍💻 All of my projects are available at my portfolio:  https://portfolio-ulises.vercel.app/
+- 👨‍💻 All of my projects are available at my portfolio:  https://ulisesmolina.vercel.app/
 
 - 📫 Contact me: **ulisesmolinadev@gmail.com**
 
@@ -89,7 +89,7 @@ Soy completamente auto didacta.
 
 
 
-- 👨‍💻 Todos mis proyectos estan disponibles en :  https://portfolio-ulises.vercel.app/
+- 👨‍💻 Todos mis proyectos estan disponibles en :  https://ulisesmolina.vercel.app/
 
 - 📫 Contactame : **ulisesmolinadev@gmail.com**
 
